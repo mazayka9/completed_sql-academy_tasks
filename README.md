@@ -1,2 +1,2 @@
-# -ompleted_sql-academy_tasks
+# Completed_sql-academy_tasks
 Сompleted tasks with sql-academy for certification.
